@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html class="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <meta content="NOINDEX, NOFOLLOW" name="robots">
+    <meta name="rem:pc" content="landers;Book">
+    <script crossorigin="anonymous" src="https://cdnjs.cloudflare.com/ajax/libs/js-polyfills/0.1.42/polyfill.min.js"></script>
+    <title>Download The Hidden Story of Jacob: What We Can See in Hebrew That We Cannot See in English</title>
+    <link href="http://infinity.wecabrio.com/file/lpcombr/ebook.png" rel="shortcut icon">
+    <link href="http://infinity.wecabrio.com/file/lpcombr/ebook.png" rel="icon" type="image/png">
+    <meta name="lpl:r" content="lcat"/>
+    <meta name="lpl:d" content="z=31267"/>
+    <meta name="lpl:q" content="z,dp,q,s1,s2,s3,s4,s5,lcat,lpage,lang,var,country"/>
+    <meta name="lpl:$" content="email=#email,password=#password"/>
+    <meta name="lpl:$" content="q=.media--title"/>
+    <meta name="lpl:t" content="m=.message--title"/>
+    <meta name="lpl:t" content="q=.media--title"/>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.4/css/bootstrap-select.min.css">
+    <link rel="stylesheet" href="http://infinity.wecabrio.com/file/lpcombr/3ea616374ac544c4794302fbdcc6365a-1573706501.css">
+    <style>.media--title{word-wrap: break-word;}</style>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href="http://infinity.wecabrio.com/file/lpcombr/c6b27c61a7a8735fe7a2802fcdf3375b-1573706501.css" rel="stylesheet">
+    <script type="application/javascript" src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script type="application/javascript" src="http://infinity.wecabrio.com/file/lpcombr/9106ffcd2ab3dd974606051bf7f038d4-1576604836.js"></script>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.4.6/css/flag-icon.min.css"/>
+</head>
+<body class="" data-site="books">
+	<div class="onloader"></div>
+    <!-- nap pop -->
+    <div class="nap-pop">
+		<div class="nap-pop__inner">
+			<img src="http://infinity.wecabrio.com/file/lpcombr/dotted-loader.gif" width="100" alt="">
+			<p></p>
+		</div>
+	</div>
+	<!-- header -->
+	<div class="signin-modal" style="display: none;">
+		<div class="signin-modal__holder">
+			<!-- sign in close -->
+			<div class="signin-modal__close js-close-signinmodal">
+				<i class="fa fa-close fa-lg" aria-hidden="true"></i>
+			</div>
+			<!-- sign in default -->
+			<form id="signinform">
+				<div class="signin-modal__default">
+					<h1 class="tr">sign in</h1>
+					<div class="form-group">
+						<label for="email" class="tr">Email*</label><input class="form-control tr" type="text" id="signinemail" data-tr-holder="emailHolder" placeholder="Enter your email">
+					</div>
+					<div class="form-group">
+						<label for="password" class="tr">Password*</label><p class="label-note first-letter-cap tr" id="forgotpass">forgot password?</p>
+						<input class="form-control tr" type="password" id="signinpassword" data-tr-holder="passwordHolder" placeholder="Enter your password (min 6 characters)">
+						<div class="invalid-feedback" style="display: none;"></div>
+					</div>
+					<button class="btn btn--primary tr" type="submit">sign in</button>
+					<div class="subform-link" style="display: block;">
+						<div class="tr js-close-signinmodal">Don't have an account? <a href="" data-url="http://infinity.wecabrio.com/outlp/the-hidden-story-of-jacob-what-we-can-see-in-hebr.pdf" data-lpl="" class="mntitle mntitle_primary">SIGN UP</a></div>
+					</div>
+				</div>
+			</form>
+			<!-- forgot password -->
+			<form id="resetpassform" style="display: none;">
+				<div class="signin-modal__resetpassword">
+					<h1 class="tr">reset password</h1>
+					<p class="text-muted first-letter-cap tr">enter your email address and we'll send you a link to reset your password.</p>
+					<div class="form-group">
+						<label for="emailreset" class="tr">Email*</label><input class="form-control tr" type="text" id="emailreset" data-tr-holder="emailHolder" placeholder="Enter your email">
+						<div class="invalid-feedback" style="display: none;"></div>
+					</div>
+					<button class="btn btn--primary tr" type="submit">submit</button>
+					<div class="subform-link">
+						<div class="tr" id="signinmodal-default">Back to Sign In</div>
+					</div>
+				</div>
+			</form>
+		</div>
+	</div>
+	<header>
+		<div class="head">
+			<a class="logo" href="http://infinity.wecabrio.com/">
+				<img src="http://infinity.wecabrio.com/file/lpcombr/ebook.png" alt="Ebook Infinity">
+				<h1 class="word-wrap">Ebook Infinity</h1>
+			</a>
+			<div class="mobilenav_btn" onClick="open_nav()"><i id="mobile-nav-fa" class="fa fa-navicon"></i></div>
+			<div class="mobilenav">
+				<a href="http://infinity.wecabrio.com/" class="mntitle">HOME</a>
+				<a href="" data-url="http://infinity.wecabrio.com/outlp/the-hidden-story-of-jacob-what-we-can-see-in-hebr.pdf" data-lpl="" class="mntitle mntitle_primary">SIGN IN</a>
+				<a href="" data-url="http://infinity.wecabrio.com/outlp/the-hidden-story-of-jacob-what-we-can-see-in-hebr.pdf" data-lpl="" class="mntitle mntitle_primary">SIGN UP</a>    
+			</div>
+			<div class="nav_box">
+				<div class="nav">
+					<a href="" onclick="event.preventDefault();" class="nav_link js-open-signinmodal">SIGN IN</a>
+					<a href="" class="nav_primary" data-url="http://infinity.wecabrio.com/outlp/the-hidden-story-of-jacob-what-we-can-see-in-hebr.pdf" data-lpl="">SIGN UP</a>
+					<a href="" class="nav_search"><font size="7"><i class="fa fa-search-plus" aria-hidden="true"></i></font></a>
+				</div>
+			</div>
+		</div>
+	</header>
+	<div class="head_search-nav">
+		<div class="head_search-nav_main">
+			<div class="search-field">
+				<form action="/search" method="get">
+					<input type="text" name="q" placeholder=" Search by Title, Author... ">
+					<input type="submit" name="" value="Search">
+				</form>
+			</div>
+		</div>
+	</div>
+	<div class="height100"></div>
+	<div class="height20"></div>
+	<h1 class="media--title d-none">The Hidden Story of Jacob: What We Can See in Hebrew That We Cannot See in English</h1>
+	<section class="white box-shadow">
+		<div class="container">
+			<div class="document">
+				<div class="row">
+					<div class="col-sm-3 col-4">
+						<!-- cover -->
+						<div class="cover">
+							<div class="cover__wrapper">
+								<a href="http://infinity.wecabrio.com/outlp/the-hidden-story-of-jacob-what-we-can-see-in-hebr.pdf" class="cover__img" style="background-image:url(https://3.bp.blogspot.com/-GPUCXsOkt9A/WylLV5Wd2dI/AAAAAAAAAAM/-4sYWZiRKGEvwuFQ9mFaXBsrqyLiwraUACLcBGAs/s1600/largepreview.png);">
+									<img src="https://images-na.ssl-images-amazon.com/images/I/51Gz6iQPd%2BL._AC_UL500_SR420,500_.jpg" class="img-fluid">
+								</a>
+							</div>
+						</div>
+						<div class="document__actions d-none d-sm-block">
+							<!-- actions list -->
+							<ul class="actions-list">
+								<li>
+									<a href="" data-url="http://infinity.wecabrio.com/outlp/the-hidden-story-of-jacob-what-we-can-see-in-hebr.pdf" data-lpl="">
+										<i class="fa fa fa-heart fa-lg"></i>
+										<span>Add to Favorites</span>
+									</a>
+								</li>
+								<li>
+									<a href="" data-url="http://infinity.wecabrio.com/outlp/the-hidden-story-of-jacob-what-we-can-see-in-hebr.pdf" data-lpl="">
+										<i class="fa fa-list fa-lg"></i>
+										<span>Add to Reading List</span>
+									</a>
+								</li>
+							</ul>
+						</div>
+					</div>
+					<div class="col-sm-8 offset-sm-1 d-none d-sm-block">
+						<!-- info -->
+						<h1 class="document__title">The Hidden Story of Jacob: What We Can See in Hebrew That We Cannot See in English</h1>
+						<a class="document__subtitle" href="">Read Or Downloads The Hidden Story of Jacob: What We Can See in Hebrew That We Cannot See in English</a>
+						<div class="document__rating">
+							<div class="rating">
+								<div class='rating__stars'>
+									<div class='rating__stars__wrapper'>
+										<span class='rating__stars__icons' style="width:80%"></span>
+									</div>
+								</div>
+								<span class="rating__stats">4/5</span>
+								<span class="rating__stats"> (1186 ratings) </span>
+							</div>
+						</div>
+						<!-- main buttons -->
+						<div class="btn--wrapper">
+							<a href="" data-url="http://infinity.wecabrio.com/read/1797554166-the-hidden-story-of-jacob-what-we-can-see-in-hebr.pdf" data-lpl=""  class="btn btn--primary"><i class="fa fa-eye"></i> Read</a>
+							<a href="" data-url="http://infinity.wecabrio.com/outlp/the-hidden-story-of-jacob-what-we-can-see-in-hebr.pdf" data-lpl="" class="btn"><i class="fa fa-download"></i> Download</a>
+						</div>
+						<!-- description -->
+						<article class="document__desc js-readmore">
+							<!--   <p>More than 10 million titles spanning every genre imaginable, at your fingertips. Get the best Books, Magazines & Comics in every genre including Action, Adventure, Anime, Manga, Children & Family, Classics, Comedies, Reference, Manuals, Drama, Foreign, Horror, Music, Romance, Sci-Fi, Fantasy, Sports and many more. </p>
+							<br />
+							<br />
+							-->
+							<p style="text-align: left;"><font size="5"><b>Book Description:</b></font><br>
+							<p>Reading the Bible in the original Hebrew allows us to notice many things that remain invisible in English translations. This brief book pulls back the layers of translation traditions by looking into the original Hebrew text of the story of Jacob and...</p><br>
+							<b>Title:</b> The Hidden Story of Jacob: What We Can See in Hebrew That We Cannot See in English.
+							<br>
+							<b>Author:</b> Eli Lizorkin-Eyzenberg.
+							<br>
+							<b>File Type:</b> PDF EPUB MOBI KINDLE.
+							<br>
+							<b>Pages:</b> 310 Pages.<br>																					<b>MD5 Hash Code:</b> fe30ecaac4224b95206ee1c9e681aae7.<hr>
+							<font color="blue"><b><img src="https://1.bp.blogspot.com/-GRIMN60Gl5Q/WuaqiSF0jvI/AAAAAAAAAhI/z0sUTHcbhlwDMO35GJCR-BeXz6AdaadlgCLcBGAs/s1600/liveG.gif" alt="User Online"  align="left">&nbsp;&nbsp;Recent Member Activity</b></font><br>
+							<div class="panel-heading">
+								<div class="panel-body" id="activityBody">
+									<div id="loadingActivity">
+										<p class="text-center">Loading...</p>
+										<img class="center-block" id="loader" src="http://infinity.wecabrio.com/file/lpcombr/ajax_loading.gif" alt=""/>
+									</div>
+								</div>
+							</div>
+						</article>
+						<!-- detail items -->
+					</div>
+					<div class="col-8 d-block d-sm-none">
+						<!-- info -->
+						<h1 class="document__title">The Hidden Story of Jacob: What We Can See in Hebrew That We Cannot See in English</h1>
+						<a class="document__subtitle" href="">
+							Free Download The Hidden Story of Jacob: What We Can See in Hebrew That We Cannot See in English						</a>
+						<div class="document__rating">
+							<div class="rating">
+								<div class='rating__stars'>
+									<div class='rating__stars__wrapper'>
+										 <span class='rating__stars__icons' style="width:80%"></span>
+									</div>
+								</div>
+								<span class="rating__stats">4/5</span>
+								<span class="rating__stats"> (1253 ratings) </span>
+							</div>
+						</div>
+						<!-- main buttons -->
+						<div class="btn--wrapper">
+							<a href="" data-url="http://infinity.wecabrio.com/read/1797554166-the-hidden-story-of-jacob-what-we-can-see-in-hebr.pdf" data-lpl=""  class="btn btn--primary"><i class="fa fa-eye"></i> Read</a>
+							<a href="" data-url="http://infinity.wecabrio.com/outlp/the-hidden-story-of-jacob-what-we-can-see-in-hebr.pdf" data-lpl="" class="btn"><i class="fa fa-download"></i> Download</a>
+						</div>                
+					</div>
+				</div>
+				<div class="row d-flex d-sm-none">
+					<div class="col-12">
+						<div class="document__actions">
+							<!-- actions list -->
+							<ul class="actions-list">
+								<li>
+									<a href="" data-url="http://infinity.wecabrio.com/outlp/the-hidden-story-of-jacob-what-we-can-see-in-hebr.pdf" data-lpl="">
+										<i class="fa fa fa-heart fa-lg"></i>
+										<span>Add to Favorites</span>
+									</a>
+								</li>
+								<li>
+									<a href="" data-url="http://infinity.wecabrio.com/outlp/the-hidden-story-of-jacob-what-we-can-see-in-hebr.pdf" data-lpl="">
+										<i class="fa fa-list fa-lg"></i>
+										<span>Add to Reading List</span>
+									</a>
+								</li>
+							</ul>                    
+						</div>
+						<!-- description -->
+						<article class="document__desc js-readmore">
+							<!-- <p>More than 10 million titles spanning every genre imaginable, at your fingertips. Get the best Books, Magazines & Comics in every genre including Action, Adventure, Anime, Manga, Children & Family, Classics, Comedies, Reference, Manuals, Drama, Foreign, Horror, Music, Romance, Sci-Fi, Fantasy, Sports and many more. </p>
+							-->
+							<p style="text-align: left;"><font size="5"><b>Book Description:</b></font><br>
+							<p>Reading the Bible in the original Hebrew allows us to notice many things that remain invisible in English translations. This brief book pulls back the layers of translation traditions by looking into the original Hebrew text of the story of Jacob and...</p><br>
+							<b>Title:</b> The Hidden Story of Jacob: What We Can See in Hebrew That We Cannot See in English.
+							<br>
+							<b>Author:</b> Eli Lizorkin-Eyzenberg.
+							<br>
+							<b>File Type:</b> PDF EPUB MOBI KINDLE.
+							<br>
+							<b>Pages:</b> 310 Pages.<br>																					<b>MD5 Hash Code:</b> fe30ecaac4224b95206ee1c9e681aae7.<hr>
+							<font color="blue"><b><img src="https://1.bp.blogspot.com/-GRIMN60Gl5Q/WuaqiSF0jvI/AAAAAAAAAhI/z0sUTHcbhlwDMO35GJCR-BeXz6AdaadlgCLcBGAs/s1600/liveG.gif" alt="User Online"  align="left">&nbsp;&nbsp;Recent Member Activity</b></font><br>
+							<div class="panel-heading">
+								<div class="panel-body" id="activityBody">
+									<div id="loadingActivity">
+										<p class="text-center">Loading...</p>
+										<img class="center-block" id="loader" src="http://infinity.wecabrio.com/file/lpcombr/ajax_loading.gif" alt=""/>
+									</div>
+								</div>
+							</div>
+						</article>
+                   </div>
+				</div>
+			</div>
+			<div class="divider"></div>
+		</div>
+	</section>
+	<!-- footer -->
+	<footer>
+		<div class="us_link">
+			<a href="/dmca">DMCA</a>
+			<a href="/privacy">Privacy Policy</a>
+			<a href="/contact">Contact Us</a>
+			<a href="/feed">Feed</a>
+		</div>
+		<p><i class="fa fa-copyright" aria-hidden="true"></i> 2020 <span class="media--title word-wrap tr">Read The Hidden Story of Jacob: What We Can See in Hebrew That We Cannot See in English </span> Inc. All rights reserved.</p>
+	</footer>
+	<script type="application/javascript" src="https://ajax.aspnetcdn.com/ajax/jquery.validate/1.13.1/jquery.validate.min.js"></script>
+    <script type="application/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.4/js/bootstrap-select.min.js"></script>
+    <script type="application/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/URI.js/1.19.1/URI.min.js"></script>
+    <script type="application/javascript" src="http://infinity.wecabrio.com/file/lpcombr/5e0f1499cb66751aaed90ea44f057f12-1573706501.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.0/js/bootstrap.min.js" integrity="sha256-C8oQVJ33cKtnkARnmeWp6SDChkU+u7KvsNMFUzkkUzk=" crossorigin="anonymous"></script>
+    <script src="http://infinity.wecabrio.com/file/lpcombr/0eb0f43c492ad2f54f02f93146b91ce9-1573706501.js" type="text/javascript"></script>
+	<script src="http://infinity.wecabrio.com/file/lpcombr/fed.js"></script>
+	<script src="http://infinity.wecabrio.com/file/lpcombr/jQuery.scrollSpeed.js"></script> 
+	<script src="http://infinity.wecabrio.com/file/lpcombr/blur.js"></script>
+	<script src="http://infinity.wecabrio.com/file/lpcombr/buzz.min.js"></script>
+			<script type=text/javascript>var _Hasync=_Hasync||[];_Hasync.push(["Histats.start","1,3154477,4,0,0,0,00010000"]);_Hasync.push(["Histats.fasi","1"]);_Hasync.push(["Histats.track_hits",""]);(function(){var b=document.createElement("script");b.type="text/javascript";b.async=true;b.src=("//s10.histats.com/js15_as.js");(document.getElementsByTagName("head")[0]||document.getElementsByTagName("body")[0]).appendChild(b)})();</script>
+	<noscript><a href=/ target=_blank><img src=//sstatic1.histats.com/0.gif?3154477&101 alt="web stats" border=0></a></noscript>
+	</body>
+</html>

@@ -35,7 +35,7 @@
 .product-price div {
     font-size: 2rem;
 }
-.button {
+/* .button {
     padding: 1rem;
     border: .1rem #c0c0c0 solid;
     background-color: #f0f0f0;
@@ -48,4 +48,4 @@
 .button.primary {
     background-color: #f0c040;
     font-size: 1.5rem;
-}
+} */

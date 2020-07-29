@@ -5,6 +5,7 @@ import './ProductList.css';
 
 class ProductList extends React.Component {
     render() {
+        const { addToCart } = this.props;
         return (
             <div>
                 <ul className="products">
@@ -17,7 +18,7 @@ class ProductList extends React.Component {
                                 </a>
                                 <div className="product-price">
                                     <div>{formatCurrency(product.price)}</div>
-                                    <button className="button primary">Add to Cart</button>
+                                    <button onClick={() => addToCart(product)} className="button primary">Add to Cart</button>
                                 </div>
                             </div>
                         </li>
